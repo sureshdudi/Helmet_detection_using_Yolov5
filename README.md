@@ -1,6 +1,6 @@
 # Helmet detection using Yolo_v5
-I am used yolo_v3 and yolo_v4 for cotton detection in 2020 
-I always wanted to try yolo_v5 as many articles stated it is really fast.
+I am used yolo_v3 and yolo_v4 for cotton detection in 2020.                                                                                                                        
+I always wanted to try yolo_v5 as many articles stated it is really fast.                                                                                                         
 I got dataset from from roboflow 
 
 #Observations:
